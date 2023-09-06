@@ -1,0 +1,15 @@
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\bin\Debug\net7.0\CalculateGrades.exe
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\bin\Debug\net7.0\CalculateGrades.deps.json
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\bin\Debug\net7.0\CalculateGrades.runtimeconfig.json
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\bin\Debug\net7.0\CalculateGrades.dll
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\bin\Debug\net7.0\CalculateGrades.pdb
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\obj\Debug\net7.0\CalculateGrades.csproj.AssemblyReference.cache
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\obj\Debug\net7.0\CalculateGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\obj\Debug\net7.0\CalculateGrades.AssemblyInfoInputs.cache
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\obj\Debug\net7.0\CalculateGrades.AssemblyInfo.cs
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\obj\Debug\net7.0\CalculateGrades.csproj.CoreCompileInputs.cache
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\obj\Debug\net7.0\CalculateGrades.dll
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\obj\Debug\net7.0\refint\CalculateGrades.dll
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\obj\Debug\net7.0\CalculateGrades.pdb
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\obj\Debug\net7.0\CalculateGrades.genruntimeconfig.cache
+C:\Users\MorjanM\RiderProjects\CalculateGrades\CalculateGrades\obj\Debug\net7.0\ref\CalculateGrades.dll
